@@ -1,0 +1,213 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    background-color: rgb(243, 240, 240);
+}
+.header a{
+    list-style: none;
+    color: rgb(87, 86, 86);
+    padding: 15px;  
+}
+.header1{
+    display: flex;
+    
+    
+}
+.header a:hover{
+    color: rgb(221, 70, 10);
+}
+.turbo{
+    width: 100%;
+    height: 65px;
+    padding: 10px;
+    background-color: rgb(201, 33, 33);
+    align-items: center;   
+    display: flex;    
+}
+.turboelan{
+    display: flex; 
+}
+.YeniElan{
+    background-color: rgb(201, 33, 33);
+}
+.turbo span>b{
+    color: aliceblue;
+}
+.turbo a{
+    list-style: none;
+    color: aliceblue;
+    padding: 25px;
+    font-size: 17px;  
+}
+.turbo b{
+    font-size: large;
+}
+.YeniElan button{
+    background-color: rgb(74, 228, 74);
+    border-radius: 10px;
+    color: aliceblue;
+    height: 43px;
+    width: 103px;
+}
+
+.div1{
+    display: flex;
+    padding: 30px;
+    
+}
+#Marka{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    color: grey;
+    margin: 20px;
+}
+#Model{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    color: grey;
+    margin: 20px;
+}
+#Sheher{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    color: grey;
+    margin: 20px;
+}
+.check button{
+    height: 50px;
+    width: 75px;
+    border-radius: 10px;
+    color: grey;
+
+}
+.check button:hover{
+    background-color: rgb(196, 36, 36);
+}
+.div2 input{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    color: grey;
+    margin: 20px;
+    
+}
+.div2{
+    padding: 28px
+}
+#price{
+    height: 50px;
+    width: 80px;
+    border-radius: 10px;
+    color: grey;
+    margin: 20px;
+}
+#sell{
+    height: 50px;
+    width: 60px;
+    border-radius: 8px;
+    color: grey;
+    
+}
+#Ban{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    color: grey;
+    margin: 20px;
+}
+#il{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    color: grey;
+    margin: 20px;
+}
+#il1{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    color: grey;
+    
+}
+#sell:hover{
+    color: red;
+    border-color: red;
+}
+.bugun{
+    padding: 30px;
+}
+.dahaChox{
+    padding: 30px;
+}
+.buelaan{
+    display: flex;
+}
+.elanbutton{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(197, 34, 34);
+      
+}
+.elanbutton a{
+    color: aliceblue;
+    padding: 50px;
+}
+
+.card{
+    margin: 50 auto;
+    border: 1px solid black;
+    width: 222px;
+    border-radius: 8px;
+    margin: 20px;
+    height: 330px;
+}
+.cardimage img{
+    border-radius: 8px;
+}
+.product{
+    display: flex;
+}
+.dop1{
+    padding: 20px;
+    margin: 25px;
+    color: grey;
+}
+.dop{
+    display: flex;
+}
+.dop1 p:hover{
+    color: red;
+}
+.footer a:hover{
+    color: red;
+    
+}
+footer a{
+    color: rgb(27, 26, 26);
+    margin: 28px;
+}
+footer{
+    width: 100%;
+    border: 100px;
+    border-color: rgb(29, 28, 28);
+
+}
+.footer1{
+    display: flex;
+    background-color: rgb(201, 33, 33);
+    width: 100%;
+    height: 50px;
+    color: aliceblue;
+    align-items: center;
+}
